@@ -12,6 +12,7 @@ Main KivyMD logo.
   Where to change logo to new.
 
   - [ ] Organization on GitHub [link](https://github.com/organizations/kivymd/settings/profile)
+  - [ ] Kitchen Sink demo icon [link](https://github.com/kivymd/KivyMD/blob/master/demos/kitchen_sink/assets/kivymd.png)
   - [ ] Team on Discord Developers [link](https://discord.com/developers/teams/739100511512297563/information)
   - [ ] Application on Discord Developers [link](https://discord.com/developers/applications/739100866023391252/information)
   - [ ] OpenCollective page [link](https://opencollective.com/kivymd)
