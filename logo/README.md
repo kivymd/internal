@@ -19,7 +19,6 @@ Main KivyMD logo.
   - [ ] YouTube channel [link](https://www.youtube.com/c/KivyMD)
   - [ ] Twitter account [link](https://twitter.com/KivyMD)
   - [ ] Habr account [link](https://habr.com/ru/users/kivymd/)
-  - [x] Bountysource team (by url) [link](https://www.bountysource.com/teams/kivymd/settings)
   - [x] StackOverflow tag info (by url) [link](https://stackoverflow.com/tags/kivymd/info)
   - [x] Project Readme (by url) [link](https://github.com/kivymd/KivyMD/blob/master/README.md)
 </details>
