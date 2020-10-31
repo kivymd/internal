@@ -23,6 +23,19 @@ Main KivyMD logo.
   - [x] Project Readme (by url) [link](https://github.com/kivymd/KivyMD/blob/master/README.md)
 </details>
 
+### `kivymd_extensions`
+
+[KivyMD Extensions](https://github.com/kivymd-extensions) logo.
+
+<details>
+  <summary>Checklist</summary>
+
+  Where to change logo to new.
+
+  - [ ] Organization on GitHub [link](https://github.com/organizations/kivymd-extensions/settings/profile)
+  - [x] Project Readme (by url) [link](https://github.com/kivymd-extensions/KivyMD_Extensions/blob/master/README.md)
+</details>
+
 ### `kivymd_bot`
 
 Avatar for KivyMD bots.
